@@ -219,13 +219,13 @@ p {
   }
 }
 
-/*a {
+a {
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 20px;
   text-decoration: none;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
