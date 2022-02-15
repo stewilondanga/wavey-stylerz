@@ -173,11 +173,12 @@ p {
   animation: move-forever 25s cubic-bezier(.55, .5, .45, .5) infinite;
 }
 
-/*.parallax > use:nth-child(1) {
+.parallax>use:nth-child(1) {
   animation-delay: -2s;
   animation-duration: 7s;
 }
-.parallax > use:nth-child(2) {
+
+/*.parallax > use:nth-child(2) {
   animation-delay: -3s;
   animation-duration: 10s;
 }
