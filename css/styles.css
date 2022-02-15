@@ -136,13 +136,14 @@ p {
   vertical-align: middle;
 }
 
-/*.inner-header {
-  height:65vh;
-  width:100%;
+.inner-header {
+  height: 65vh;
+  width: 100%;
   margin: 0;
   padding: 0;
 }
 
+/*
 .flex { /*Flexbox for containers*/
 /*display: flex;
   justify-content: center;
