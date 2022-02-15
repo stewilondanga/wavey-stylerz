@@ -161,11 +161,10 @@ p {
   max-height: 150px;
 }
 
-/*
 .content {
-  position:relative;
-  height:20vh;
-  text-align:center;
+  position: relative;
+  height: 20vh;
+  text-align: center;
   background-color: white;
 }
 
