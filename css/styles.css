@@ -62,6 +62,7 @@
   font-size: 16px;
   text-align: center;
   color: #b6b6b6;
+  z-index: 10;
 }
 
 .share__link {
