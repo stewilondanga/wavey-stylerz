@@ -157,10 +157,11 @@ p {
   height: 15vh;
   margin-bottom: -7px;
   /*Fix for safari gap*/
-  /*min-height:100px;
-  max-height:150px;
+  min-height: 100px;
+  max-height: 150px;
 }
 
+/*
 .content {
   position:relative;
   height:20vh;
@@ -169,7 +170,7 @@ p {
 }
 
 /* Animation */
-  /*
+/*
 .parallax > use {
   animation: move-forever 25s cubic-bezier(.55,.5,.45,.5)     infinite;
 }
@@ -198,7 +199,7 @@ p {
   }
 }
 /*Shrinking for mobile*/
-  /*@media (max-width: 768px) {
+/*@media (max-width: 768px) {
   .waves {
     height:40px;
     min-height:40px;
